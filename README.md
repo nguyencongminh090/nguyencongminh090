@@ -62,23 +62,6 @@
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyencongminh090&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=050409&title_color=00f2fe&icon_color=00f2fe&text_color=94a3b8&cache_seconds=86400&v=1" alt="GitHub stats" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=nguyencongminh090&theme=tokyonight&hide_border=true&background=050409&ring=00f2fe&fire=ec4899&currStreakNum=ffffff&currStreakLabel=94a3b8&sideLabels=94a3b8" alt="GitHub streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyencongminh090&layout=compact&theme=tokyonight&hide_border=true&bg_color=050409&title_color=a18cd1&text_color=94a3b8&cache_seconds=86400&v=1" alt="Top languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyencongminh090&theme=tokyo-night&bg_color=050409&hide_border=true&color=00f2fe&line=a18cd1" alt="Contribution graph" />
-</p>
-
----
-
 ### 📫 Reach me
 
 <p align="left">
