@@ -7,10 +7,9 @@ if [ -z "$GITHUB_TOKEN" ]; then
   exit 1
 fi
 
-# Create a temporary directory inside the workspace (cleaner than system tmp)
-TEMP_DIR="./.tmp-card-gen"
-rm -rf "$TEMP_DIR"
-mkdir -p "$TEMP_DIR"
+# Create a temporary directory in the system /tmp/ (fixes NTFS/exFAT mount issues with npm)
+TEMP_DIR=$(mktemp -d)
+echo "Using temporary directory: $TEMP_DIR"
 
 echo "Cloning vn7n24fzkq/github-profile-summary-cards..."
 git clone --depth 1 https://github.com/vn7n24fzkq/github-profile-summary-cards.git "$TEMP_DIR"
