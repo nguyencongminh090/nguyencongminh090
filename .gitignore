@@ -1,7 +1,6 @@
 # AI Agents
 .agents/
 .tmp-card-gen/
-generate-cards.sh
 
 
 # OS generated files

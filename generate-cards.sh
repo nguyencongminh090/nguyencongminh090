@@ -27,6 +27,9 @@ echo "Copying generated cards to profile-summary-card-output/..."
 mkdir -p profile-summary-card-output
 cp -r "$TEMP_DIR/profile-summary-card-output/"* profile-summary-card-output/
 
+echo "Styling cards to match visual design theme..."
+node post-process.js
+
 echo "Cleaning up..."
 rm -rf "$TEMP_DIR"
-echo "Success! Cards generated in profile-summary-card-output/"
+echo "Success! Cards generated and styled in profile-summary-card-output/"
