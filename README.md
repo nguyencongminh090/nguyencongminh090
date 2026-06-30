@@ -62,7 +62,25 @@
 
 ---
 
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="profile-summary-card-output/tokyo-night/0-profile-details.svg" alt="Profile details" />
+</p>
+<p align="center">
+  <img src="profile-summary-card-output/tokyo-night/1-repos-per-language.svg" width="400" alt="Repos per language" />
+  <img src="profile-summary-card-output/tokyo-night/2-most-commit-language.svg" width="400" alt="Most commit language" />
+</p>
+<p align="center">
+  <img src="profile-summary-card-output/tokyo-night/3-stats.svg" width="400" alt="Stats" />
+  <img src="profile-summary-card-output/tokyo-night/4-productive-time.svg" width="400" alt="Productive time" />
+</p>
+
+
+---
+
 ### 📫 Reach me
+
 
 <p align="left">
   <a href="https://github.com/nguyencongminh090">
