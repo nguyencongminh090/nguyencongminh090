@@ -1,5 +1,7 @@
 # AI Agents
 .agents/
+.claude/
+CLAUDE.md
 .tmp-card-gen/
 
 
