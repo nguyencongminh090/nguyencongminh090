@@ -28,13 +28,6 @@ Each project below was built to practice one specific skill:
 
 `Python` · `JavaScript / Node.js` · `Express` · `Socket.IO` · `Selenium` · `Jest` · `Playwright` · `Git`
 
-## GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nguyencongminh090&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyencongminh090&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
 ## Contact
 
 - Blog: [nguyencongminh090.github.io](https://nguyencongminh090.github.io)
